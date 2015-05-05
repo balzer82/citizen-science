@@ -268,7 +268,9 @@ leer
 ## Pegelstände von Flüssen/Seen/etc.
 ## Strom/Spannung:
 ## Müll:
-*(Wie könnte man die Müllmenge die jeder produziert sinnvoll messen/wiegen?)
+* (Wie könnte man die Müllmenge die jeder produziert sinnvoll messen/wiegen?)
+* Antwort: Die meißten Fahrzeuge der Stadtreinigungen wiegen jederzeit die Müllmasse in der Schüttung. Die dürfen nämlich nicht überladen, daher muss das Fahrzeug das erfassen. Weiterhin haben die meißten ein GPS und Telemetriesystem, sodass es wahrscheinlich ist, dass die Stadtreinigungen wissen, an welcher Stelle wieviel kg Müll rein gekippt wird. #OpenData müsste es sein! :)
+
 ## Fahrradverkehr:
 ## Verkehrszählung
 
